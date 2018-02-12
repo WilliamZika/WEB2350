@@ -1,0 +1,38 @@
+#first {
+    float: right;
+    width: 150px;
+}
+
+#second {
+    float: left;
+    width: 150px;
+}
+
+#thrid {
+    float: center;
+    width: 150px;
+}
+
+#one , #two{
+    background: white;
+    border: 2px solid black;
+}
+
+#two{
+    display: inline;
+}
+
+span {
+    background: #f99;
+    padding: 0 1em;
+}
+
+em {
+    position: relative;
+    top: 2em;
+    left: 2em;
+    padding: 0 1em;
+    background: #C00;
+    color: white;
+    font-weight: bold;
+}
